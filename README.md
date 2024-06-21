@@ -1,5 +1,7 @@
 # 361 - HW1
 
+2022-2023 Spring Semester
+
 This is my TCP client-server program that asks a user for a vector, adds the servers' vector to it, and returns the sum vector back to the client.
 
 ## Compilation
